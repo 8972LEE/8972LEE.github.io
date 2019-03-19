@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[The first day using my blog]]></title>
+    <title><![CDATA[some problems about setting a blog]]></title>
     <url>%2F2019%2F03%2F19%2FDiary%2FEncoutering%20some%20problems%20when%20setting%20a%20blog%20based%20on%20Hexo%2F</url>
-    <content type="text"><![CDATA[#Encoutering some problems when setting a blog based on HexoTags: solutions The importance of wherre to gitbash or run powershelle.g. updating the theme---*next*, gitbash in the file of *next* ##Carefully read the errors instead of being furious 1. since bug information will show the specific location of errors, which could provide a fantanstic opportunity to examine the programme. 2.many mistakes are quite easily neglected e.g. **ERROR Theme config load failed** **ERROR Process failed: _config.yml** These above are all caused by imitating others&apos; methods completely. (I even did not change the &quot;your URL&quot; to &quot;8972LEE&quot;)]]></content>
+    <content type="text"><![CDATA[#some problems setting a blog based on HexoTags: solutions The importance of wherre to gitbash or run powershelle.g. updating the theme---*next*, gitbash in the file of *next* ##Carefully read the errors instead of being furious 1. since bug information will show the specific location of errors, which could provide a fantanstic opportunity to examine the programme. 2.many mistakes are quite easily neglected e.g. **ERROR Theme config load failed** **ERROR Process failed: _config.yml** These above are all caused by imitating others&apos; methods completely. (I even did not change the &quot;your URL&quot; to &quot;8972LEE&quot;)]]></content>
       <categories>
         <category>Diary</category>
       </categories>
