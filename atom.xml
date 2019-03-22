@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-03-21T14:27:14.184Z</updated>
+  <updated>2019-03-22T07:20:47.412Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,13 +17,38 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>jpg</title>
+    <title> How to add music player to Hexo</title>
+    <link href="http://yoursite.com/2019/03/22/Add-music-player/"/>
+    <id>http://yoursite.com/2019/03/22/Add-music-player/</id>
+    <published>2019-03-22T06:26:37.000Z</published>
+    <updated>2019-03-22T07:20:47.412Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="How-to-add-music-player-to-Hexo"><a href="#How-to-add-music-player-to-Hexo" class="headerlink" title="How to add music player to Hexo"></a>How to add music player to Hexo</h1><h2 id="obtain-External-chain-player"><a href="#obtain-External-chain-player" class="headerlink" title="obtain External chain player"></a>obtain External chain player</h2><h3 id="Use-music-websites-like-Netease-Cloud-Music"><a href="#Use-music-websites-like-Netease-Cloud-Music" class="headerlink" title="Use music websites like Netease Cloud Music"></a>Use music websites like Netease Cloud Music</h3><p>​                              </p><ul><li>Through the function of inspect elements to gain the external chain player</li></ul><p>​                              </p><p>​                              </p><h2 id="copy-the-code-to-layout-macro-sidebar-swig"><a href="#copy-the-code-to-layout-macro-sidebar-swig" class="headerlink" title="copy the code to layout/macro/sidebar.swig"></a>copy the code to <code>layout/macro/sidebar.swig</code></h2><p>​                                </p><p>​                               </p><div id="music163player"><br> <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="450" src="//music.163.com/outchain/player?type=0&id=2550523116&auto=0&height=430"></iframe><br>    <br></div><h2 id="End"><a href="#End" class="headerlink" title="End"></a>End</h2><p>hexo clean &amp;&amp; hexo g</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;How-to-add-music-player-to-Hexo&quot;&gt;&lt;a href=&quot;#How-to-add-music-player-to-Hexo&quot; class=&quot;headerlink&quot; title=&quot;How to add music player to Hex
+      
+    
+    </summary>
+    
+      <category term="hexo" scheme="http://yoursite.com/categories/hexo/"/>
+    
+    
+      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>How to add local pictures to hexo</title>
     <link href="http://yoursite.com/2019/03/21/jpg/"/>
     <id>http://yoursite.com/2019/03/21/jpg/</id>
     <published>2019-03-21T14:19:22.000Z</published>
-    <updated>2019-03-21T14:27:14.184Z</updated>
+    <updated>2019-03-22T06:46:58.461Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="How-to-add-local-pictures-to-hexo"><a href="#How-to-add-local-pictures-to-hexo" class="headerlink" title="How to add local pictures to hexo"></a>How to add local pictures to hexo</h1><p>相对路径引用的标签插件</p><pre><code>通过常规的 markdown 语法和相对路径来引用图片和其它资源可能会导致它们在存档页或者主页上显示不正确。在Hexo 2时代，社区创建了很多插件来解决这个问题。但是，随着Hexo 3 的发布，许多新的标签插件被加入到了核心代码中。这使得你可以更简单地在文章中引用你的资源。</code></pre><p>也就是说在存档页和主页不能使用和文章内容中的常规语法来引用图片。</p><p>比如说：当你打开文章资源文件夹功能后，你把一个 example.jpg 图片放在了你的资源文件夹中，如果通过使用相对路径的常规 markdown 语法 <img src="/example.jpg" alt> ，它将 不会 出现在首页上。（但是它会在文章中按你期待的方式工作）</p><p>正确的引用图片方式是使用下列的标签插件而不是 markdown ：</p><blockquote></blockquote>]]></content>
+    <content type="html"><![CDATA[<h1 id="How-to-add-local-pictures-to-hexo"><a href="#How-to-add-local-pictures-to-hexo" class="headerlink" title="How to add local pictures to hexo"></a>How to add local pictures to hexo</h1><h2 id="Markdown"><a href="#Markdown" class="headerlink" title="Markdown"></a>Markdown</h2><ol><li><code>![]()</code> can demonstrate  Online photographs </li><li>remember to use relative path<ul><li><code>![](/example.jpg)</code></li><li>NOT <code>![](C:/users/.../)</code></li><li>This photo will not appear in the passage.</li></ul></li></ol><h2 id="Problems"><a href="#Problems" class="headerlink" title="Problems"></a>Problems</h2><p>Do not suit local photographs.</p><p>e.g.<img src="C:\Users\Lenovo\Desktop\757648-424264.jpg" alt></p><h2 id="Solutions"><a href="#Solutions" class="headerlink" title="Solutions"></a>Solutions</h2><blockquote><p> Archive pages and home pages cannot reference images using the usual syntax found in content and articles</p></blockquote><h3 id="Use-hexo-asset-image-plug-in-to-add-local-paragraphs"><a href="#Use-hexo-asset-image-plug-in-to-add-local-paragraphs" class="headerlink" title="Use hexo-asset-image plug-in to add local paragraphs"></a>Use hexo-asset-image plug-in to add local paragraphs</h3><ul><li><p>Check the function of <code>post-asset-folder</code> is true in <code>config.yml</code></p></li><li><p>In the directory of hexo, run</p><p><code>npm install https://github.com/CodeFalling/hexo-asset-image --save</code></p></li><li><p><code></code>  replace the original Markdown Grammar</p></li></ul>]]></content>
     
     <summary type="html">
     
