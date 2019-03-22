@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-03-22T11:50:40.493Z</updated>
+  <updated>2019-03-22T11:55:44.313Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,15 +21,15 @@
     <link href="http://yoursite.com/2019/03/22/Add-music-player/"/>
     <id>http://yoursite.com/2019/03/22/Add-music-player/</id>
     <published>2019-03-22T06:26:37.000Z</published>
-    <updated>2019-03-22T11:50:40.493Z</updated>
+    <updated>2019-03-22T11:55:44.313Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="How-to-add-music-player-to-Hexo"><a href="#How-to-add-music-player-to-Hexo" class="headerlink" title="How to add music player to Hexo"></a>How to add music player to Hexo</h1><h2 id="obtain-External-chain-player"><a href="#obtain-External-chain-player" class="headerlink" title="obtain External chain player"></a>obtain External chain player</h2><h3 id="Use-music-websites-like-Netease-Cloud-Music"><a href="#Use-music-websites-like-Netease-Cloud-Music" class="headerlink" title="Use music websites like Netease Cloud Music"></a>Use music websites like Netease Cloud Music</h3> <img src="/2019/03/22/Add-music-player/1251.png"><ul><li>Through the function of inspect elements to gain the external chain player</li></ul><img src="/2019/03/22/Add-music-player/1252.png"><h2 id="copy-the-code-to-layout-macro-sidebar-swig"><a href="#copy-the-code-to-layout-macro-sidebar-swig" class="headerlink" title="copy the code to layout/macro/sidebar.swig"></a>copy the code to <code>layout/macro/sidebar.swig</code></h2><ol><li><dv id="music163player"><img src="/2019/03/22/Add-music-player/1253.png"></dv></li><li><p></p></li><li><p></p></li></ol><h2 id="End"><a href="#End" class="headerlink" title="End"></a>End</h2><p>hexo clean &amp;&amp; hexo g</p>]]></content>
+    <content type="html"><![CDATA[<h3 id="Use-music-websites-like-Netease-Cloud-Music"><a href="#Use-music-websites-like-Netease-Cloud-Music" class="headerlink" title="Use music websites like Netease Cloud Music"></a>Use music websites like Netease Cloud Music</h3> <img src="/2019/03/22/Add-music-player/1251.png"><ul><li>Through the function of inspect elements to gain the external chain player</li></ul><img src="/2019/03/22/Add-music-player/1252.png"><h2 id="copy-the-code-to-layout-macro-sidebar-swig"><a href="#copy-the-code-to-layout-macro-sidebar-swig" class="headerlink" title="copy the code to layout/macro/sidebar.swig"></a>copy the code to <code>layout/macro/sidebar.swig</code></h2><ol><li><p><code>&lt;dv id=&quot;music163player&quot;&gt;</code></p><img src="/2019/03/22/Add-music-player/1253.png"></li><li><p><code>&lt;/iframe&gt;</code></p></li><li><p><code>&lt;/div&gt;</code></p><p>P.S. Choose one of the places you like</p></li></ol><h2 id="End"><a href="#End" class="headerlink" title="End"></a>End</h2><p>hexo clean &amp;&amp; hexo g</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h1 id=&quot;How-to-add-music-player-to-Hexo&quot;&gt;&lt;a href=&quot;#How-to-add-music-player-to-Hexo&quot; class=&quot;headerlink&quot; title=&quot;How to add music player to Hex
+        &lt;h3 id=&quot;Use-music-websites-like-Netease-Cloud-Music&quot;&gt;&lt;a href=&quot;#Use-music-websites-like-Netease-Cloud-Music&quot; class=&quot;headerlink&quot; title=&quot;Use mu
       
     
     </summary>

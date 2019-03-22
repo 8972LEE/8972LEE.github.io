@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[How to add music player to Hexo]]></title>
     <url>%2F2019%2F03%2F22%2FAdd-music-player%2F</url>
-    <content type="text"><![CDATA[How to add music player to Hexoobtain External chain playerUse music websites like Netease Cloud Music Through the function of inspect elements to gain the external chain player copy the code to layout/macro/sidebar.swig Endhexo clean &amp;&amp; hexo g]]></content>
+    <content type="text"><![CDATA[Use music websites like Netease Cloud Music Through the function of inspect elements to gain the external chain player copy the code to layout/macro/sidebar.swig &lt;dv id=&quot;music163player&quot;&gt; &lt;/iframe&gt; &lt;/div&gt; P.S. Choose one of the places you like Endhexo clean &amp;&amp; hexo g]]></content>
       <categories>
         <category>hexo</category>
       </categories>
