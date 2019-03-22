@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Vanora Lee&#39;s BLOG</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-03-21T14:27:14.184Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>8972LEE</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>jpg</title>
+    <link href="http://yoursite.com/2019/03/21/jpg/"/>
+    <id>http://yoursite.com/2019/03/21/jpg/</id>
+    <published>2019-03-21T14:19:22.000Z</published>
+    <updated>2019-03-21T14:27:14.184Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="How-to-add-local-pictures-to-hexo"><a href="#How-to-add-local-pictures-to-hexo" class="headerlink" title="How to add local pictures to hexo"></a>How to add local pictures to hexo</h1><p>相对路径引用的标签插件</p><pre><code>通过常规的 markdown 语法和相对路径来引用图片和其它资源可能会导致它们在存档页或者主页上显示不正确。在Hexo 2时代，社区创建了很多插件来解决这个问题。但是，随着Hexo 3 的发布，许多新的标签插件被加入到了核心代码中。这使得你可以更简单地在文章中引用你的资源。</code></pre><p>也就是说在存档页和主页不能使用和文章内容中的常规语法来引用图片。</p><p>比如说：当你打开文章资源文件夹功能后，你把一个 example.jpg 图片放在了你的资源文件夹中，如果通过使用相对路径的常规 markdown 语法 <img src="/example.jpg" alt> ，它将 不会 出现在首页上。（但是它会在文章中按你期待的方式工作）</p><p>正确的引用图片方式是使用下列的标签插件而不是 markdown ：</p><blockquote></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;How-to-add-local-pictures-to-hexo&quot;&gt;&lt;a href=&quot;#How-to-add-local-pictures-to-hexo&quot; class=&quot;headerlink&quot; title=&quot;How to add local pictures 
+      
+    
+    </summary>
+    
+      <category term="hexo" scheme="http://yoursite.com/categories/hexo/"/>
+    
+    
+      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>AOP</title>
+    <link href="http://yoursite.com/2019/03/21/AOP/"/>
+    <id>http://yoursite.com/2019/03/21/AOP/</id>
+    <published>2019-03-21T13:09:26.000Z</published>
+    <updated>2019-03-21T14:18:44.116Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="AOP/inddex.jpg" alt></p><img src="/2019/03/21/AOP/inddex.jpg" title="inddex">]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;AOP/inddex.jpg&quot; alt&gt;&lt;/p&gt;
+&lt;img src=&quot;/2019/03/21/AOP/inddex.jpg&quot; title=&quot;inddex&quot;&gt;
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title> Exam Writing 1 about motivation</title>
+    <link href="http://yoursite.com/2019/03/21/Exam-Writing/"/>
+    <id>http://yoursite.com/2019/03/21/Exam-Writing/</id>
+    <published>2019-03-21T08:08:43.000Z</published>
+    <updated>2019-03-21T14:12:23.858Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Exam-Writing-1-About-Motivation"><a href="#Exam-Writing-1-About-Motivation" class="headerlink" title="Exam Writing 1 About Motivation"></a>Exam Writing 1 About Motivation</h1><h2 id="The-topic"><a href="#The-topic" class="headerlink" title="The topic"></a>The topic</h2><img src="/2019/03/21/Exam-Writing/4.jpg"><blockquote><p><strong>“The level of pay is the most significant factor in influencing employee motivation.” Discuss.</strong></p><p>You must refer to Input text 1 and Input text 2 and you can use your own observations.  Write at least 500 words.  </p></blockquote><h2 id="My-essay"><a href="#My-essay" class="headerlink" title="My essay"></a>My essay</h2><h3 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h3><blockquote><p>There is not doubt that better motivation could lead to higher work efficiency. However, <strong>the</strong> <strong>most effective</strong> approach to provide incentives is controversial. Some experts claim that salary is the most significant motivation source for all the employees. This essay will argue that although money can <strong>meet the fundamentally physical need</strong>, it is still not the most vital incentives for <strong>staff </strong>of individual differences and tremendous impacts pf intrinsic rewards.</p></blockquote><ul><li>best —- the most effective</li><li>is —- meet the need</li><li>staff(uncountable)</li></ul><h3 id="BP1"><a href="#BP1" class="headerlink" title="BP1"></a>BP1</h3><blockquote><p>It has been argued that economic incentives as a form of extrinsic rewards has a dominant influence on staff’ efficiency. According to the theorist F.W. Taylor’s experiment in steel factory, the total steel yield was 3 times than before when bonuses were not given to those hard-working employees (Input text 1). It seems that the rational- economic concept of motivation is appropriate. <strong>However</strong>, Herzberg’s two factor theory disagrees with this point. He suggests that people will not work harder if they have enough money(Input text 1). <strong>For</strong> some other high-skilled employees, normal economic reward could not satisfy the demands and they always prefer other intrinsic rewards.</p></blockquote><h3 id="BP2"><a href="#BP2" class="headerlink" title="BP2"></a>BP2</h3><blockquote><p><strong>Intrinsic</strong> motivation play a significant role in employees’ work efficiency.  There are many kinds of intrinsic rewards which <strong>give</strong> workers self-esteem and happiness of helping others. For example, 12.7 million people in England volunteered once a month(Input text2). It is obvious that their purpose is not pay and they enjoy this process by <strong>being aware of</strong> their value and meaning. The happiness of helping others also can stimulate workers’ abilities. The study held by Time magazine demonstrates that students who know their calling is really helpful to people have more enthusiastic , leading to nearly 2 times profits than before(Input text 2). Happiness and self-appreciation are gained in this work experience, which encourages them to be more willing to work, even though they do not get much money.   </p></blockquote><h3 id="BP3"><a href="#BP3" class="headerlink" title="BP3"></a>BP3</h3><blockquote><p><strong>Individual </strong> differences should be noticed when considering the most effective motivation for employees, no matter intrinsic rewards or extrinsic rewards. Money is merely a physiological need, which  is at the bottom of the Maslow’s hierarchy of needs(Input text 1). There are many other higher levels in this hierarchy, which is suitable to used to explain different status of employees’ motivation prefer. For example, the significant difference between workers in factory and designers in Apple is that those workers need to follow specific rules strictly in case of being discharged. However, for designers in Apple, instead of concerning regulations and salaries, they prefer to chase esteem and self- actualization(Input text 1). Therefore, different status of employees may have different objectives, resulting in various motivation source.</p></blockquote><h3 id="Conclusion"><a href="#Conclusion" class="headerlink" title="Conclusion"></a>Conclusion</h3><blockquote><p>Money indeed has strong effects on employees’ motivation, particularly for those some low- paid or unskilled employees.  However, the argument that salary is the most important factor can not perfectly applied to all the employees since there are individual differences and important effects of other intrinsic rewards. The most efficient method to provide best motivation for single employee is to consider intrinsic and extrinsic  rewards at the same time, noticing individual differences.</p></blockquote><h3 id="Problems"><a href="#Problems" class="headerlink" title="Problems"></a>Problems</h3><ul><li>Lack of cohesion among sentences and paragraphs.</li><li>lack of roadmap—-no clear sub-points</li><li>Not academic enough</li><li>complicate sentences without clear meaning</li></ul><h3 id="Improvement"><a href="#Improvement" class="headerlink" title="Improvement"></a>Improvement</h3><ul><li><p>Cohesion :</p><ul><li>link with smooth transitions: Aside from, In additional, Moreover</li><li>adversative relation : However, while, Even though, It is true that</li><li>This</li></ul></li><li><p>sample thesis statement : </p><ul><li><blockquote><p>Even though the level of pay is the prime motivation factor. <strong>Social needs</strong> and <strong>sense of achievement</strong> are more effective tools of motivation.</p><p>PS : Concession + own stands with two aspects of analyzation(out and in)</p></blockquote></li></ul></li></ul><h2 id="Sample-essay"><a href="#Sample-essay" class="headerlink" title="Sample essay"></a>Sample essay</h2><img src="/2019/03/21/Exam-Writing/1553169184065.png"><h4 id="Introduction-1"><a href="#Introduction-1" class="headerlink" title="Introduction"></a>Introduction</h4><ul><li><p>Give a definition about the main topic</p></li><li><p>show the purpose and importance of this topic</p></li><li><p>different opinions</p></li><li><p>main thesis statement</p></li><li><p>clear roadmap</p></li></ul><h4 id="BP1-1"><a href="#BP1-1" class="headerlink" title="BP1"></a>BP1</h4><ul><li><p>“It can be claimed that” to show the counter argument</p></li><li><p>Basic structure of citing</p><ul><li><p>theory generalization+ specific examples + implication</p></li><li><p>specific examples + general theory 1 + general theory 2</p></li></ul></li></ul><p>  <img src="E:\Blog\8972LEE.github.io\source\_posts\Exam-Writing\1553169219100.png" alt></p>  <img src="/2019/03/21/Exam-Writing/1553169219100.png"><h4 id="BP2-1"><a href="#BP2-1" class="headerlink" title="BP2"></a>BP2</h4><ul><li>“Even though” show the turning trend</li><li>Theory generalization+ specific examples + implication</li><li>Linking : “This was evident in” , “This is evidence of”</li></ul><h4 id="BP3-1"><a href="#BP3-1" class="headerlink" title="BP3"></a>BP3</h4><ul><li>In addition</li><li>Theory generalization+ specific examples + implication</li><li>linking: “This means”, “This negativity would contribute to”,”this demonstrate that”</li></ul><p><img src="E:\Blog\8972LEE.github.io\source\_posts\Exam-Writing\1553169237983.png" alt="1553169237983"></p><img src="/2019/03/21/Exam-Writing/1553169237983.png"><h4 id="Conclusion-1"><a href="#Conclusion-1" class="headerlink" title="Conclusion"></a>Conclusion</h4><ul><li><p>Concession + main argument</p></li><li><p>General reasons</p><ul><li><p>some authorities agree</p></li><li><p>two sub-points</p></li></ul></li></ul><img src="/2019/03/21/Exam-Writing/t.jpg">]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;Exam-Writing-1-About-Motivation&quot;&gt;&lt;a href=&quot;#Exam-Writing-1-About-Motivation&quot; class=&quot;headerlink&quot; title=&quot;Exam Writing 1 About Motivatio
+      
+    
+    </summary>
+    
+      <category term="academic" scheme="http://yoursite.com/categories/academic/"/>
+    
+    
+      <category term="writing" scheme="http://yoursite.com/tags/writing/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Silence of the lambs</title>
+    <link href="http://yoursite.com/2019/03/21/lambs/"/>
+    <id>http://yoursite.com/2019/03/21/lambs/</id>
+    <published>2019-03-21T05:36:54.000Z</published>
+    <updated>2019-03-21T14:12:26.222Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Silence-of-the-lambs"><a href="#Silence-of-the-lambs" class="headerlink" title="Silence of the lambs"></a>Silence of the lambs</h1><h2 id="The-original-ending"><a href="#The-original-ending" class="headerlink" title="The original ending"></a>The original ending</h2><img src="/2019/03/21/lambs/inddex.jpg">    <blockquote><p>**In the original ending, Lecter is cutting orange segments with a small paring knife, </p><p>while he speaks to Clarice. As he hangs up the phone, the camera shot widens. We </p><p>discover that he is at a desk in a book lined office. There is the body of a bodyguard </p><p>on the floor, and then we see Lecter is not alone. Chilton is trussed up in a chair </p><p>across from him, the same method of restraints the doctor used on Lecter earlier in</p><p>the movie. Lecter rises, slowly, a dreamy gleam in his eye, as he approaches his </p><p>terrified victim, paring knife in hand. “Shall we begin?” **</p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;Silence-of-the-lambs&quot;&gt;&lt;a href=&quot;#Silence-of-the-lambs&quot; class=&quot;headerlink&quot; title=&quot;Silence of the lambs&quot;&gt;&lt;/a&gt;Silence of the lambs&lt;/h1&gt;&lt;
+      
+    
+    </summary>
+    
+      <category term="book" scheme="http://yoursite.com/categories/book/"/>
+    
+    
+      <category term="book" scheme="http://yoursite.com/tags/book/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>The book thief movie review</title>
+    <link href="http://yoursite.com/2019/03/20/thief/"/>
+    <id>http://yoursite.com/2019/03/20/thief/</id>
+    <published>2019-03-20T14:12:58.000Z</published>
+    <updated>2019-03-22T04:55:28.030Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="The-book-thief-movie-review"><a href="#The-book-thief-movie-review" class="headerlink" title="The book thief movie review"></a>The book thief movie review</h1><p><img src="https://static.rogerebert.com/uploads/review/primary_image/reviews/the-book-thief-2013/hero_BookThief-2013-1.jpg" alt></p><blockquote><p>This film is adapted from the 2005 young-adult bestseller by Australian writer                                      Markus Zusak. The leading character is —Liesel, a young girl in 1930s Germany                                      who is left to kindly but harassed foster parents Hans and Rosa by her fugitive Communist mother. </p><p><strong>The brutal reality of the Holocaust is not dwelt upon.  It is this trio’s courage </strong>and victimhood that take center-stage.** Liesel is forced to join the Hitler Youth, but is secretly disgusted by the Nazis’ book-burning displays and conceives a love of literature by “borrowing” books from the Mayor’s wife. And as war breaks out, she is taught to love writing by Max, the Jew that her foster parents are hiding in the cellar, and whose deferential friendship and gratitude are the guarantee of their good-Germanness. It is true that this lite-historical tosh has absolutely nothing in common with the power of Steven Spielberg’s Schindler’s List.  It’s a worryingly lenient and obtuse approach to history and  historical evil, which are smothered in feelgood tragi-sentimental slush.</p></blockquote><p><img src="https://img.washingtonpost.com/rf/image_1484w/2010-2019/WashingtonPost/2013/11/09/Weekend/Images/Film_Review_The_Book_Thief-0dc27.jpg?uuid=No1LkkjbEeO2-DeC_2y3aQ" alt="fa"></p><blockquote><p>“The Book Thief” has its moments of brilliance, thanks in large part to an adept cast.  But the movie about a girl adopted by a German couple during World War  II also crystallizes the perils of book adaptations. Based on a bestselling novel,  the movie tries heartily to contain writer Markus Zusak’s myriad plot  points, but the result is a rushed conclusion, which tempers the  intended tear-jerking climax.</p><p>The sticky-fingered title character  is Liesel. With bouncy blond hair and big, sad eyes, actress Sophie  Nélisse utterly embodies the character of a girl given up for adoption  shortly after her brother dies. When Liesel’s on-the-run Communist  mother can no longer care for her, she’s taken in by Hans (Geoffrey  Rush) and Rosa (Emily Watson). The child immediately bonds with her new  father, a smiling accordion player who calls Liesel “your majesty.” Rosa  is more standoffish and looks constantly for excuses to yell. (She  finds many.)</p><p>Despite her tendency to pick up lost books, Liesel  can’t read or write, and that momentarily makes her a punch line at  school. One bully learns quickly, though, that although Liesel can’t  spell, she can fight, and that’s just the first hint of her tenacious  personality. After Hans teaches her to read, Liesel’s world begins to  expand, both through stories from books she sneakily “borrows” and in a  reality that’s informed by an oppressive regime. In this small German  village, she finds reasons to be optimistic thanks to a friendship with  another youngster, Rudy (Nico Liersch), but she also comes to understand  the saddest repercussion of Third Reich rule after a man named Max  comes to the family’s door one night. The son of Hans’s old friend, Max  is Jewish and on the run, and he ends up hiding in the family’s  basement.</p><p>There is plenty here to create both an emotional payoff  and a healthy dose of suspense. But director Brian Percival’s film  squanders the opportunities by squeezing a number of other subplots into  the two-hour run time. These threads have the space to breathe and  evolve in <a href="http://www.amazon.com/gp/product/0375842209?ie=UTF8&amp;camp=1789&amp;creativeASIN=0375842209&amp;linkCode=xm2&amp;tag=thewaspos09-20" target="_blank" rel="noopener">a novel</a>, but when it comes to the film, less would have been more.</p><p>That  being said, “The Book Thief” has its pleasures. Along with a memorable  performance from Nélisse, Rush and Watson prove their impressive range.  Despite the film’s dark themes, there are a number of scenes of gentle  comedy, and those come mostly thanks to Rush’s and Watson’s facial  expressions and delivery. Ben Schnetzer, who plays Max, hasn’t acted in  many films, but his performance is indelible as an older brother figure  trying to protect his young friend from the sad realities of the day.</p><p>From  the pristinely shot scenes of a train chugging through a snowy  landscape that open the film, “The Book Thief” has a sleekness to it.  That feeling is mirrored in a plot that feels whitewashed in some ways.  For example, Rosa discusses cutting back on meals now that the family  has to provide for its refu­gee, but there aren’t depictions of hunger  or suffering. </p><p>Just as Max tempers the reality for Liesel, the  movie does the same for its viewers. That ensures a PG-13 rating and a  broader audience, of course. But when the delivery is blunted, the  audience’s emotions will tend to follow suit.</p></blockquote><p><img src="https://i.guim.co.uk/img/static/sys-images/Guardian/About/General/2014/2/26/1393442760756/The-Book-Thief-011.jpg?width=620&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f3682ab5061040dd7c823d49e63b2262" alt></p><p>​                                                  The brown Chocolate color is the death’s favorite.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;The-book-thief-movie-review&quot;&gt;&lt;a href=&quot;#The-book-thief-movie-review&quot; class=&quot;headerlink&quot; title=&quot;The book thief movie review&quot;&gt;&lt;/a&gt;The b
+      
+    
+    </summary>
+    
+      <category term="movie" scheme="http://yoursite.com/categories/movie/"/>
+    
+    
+      <category term="world war 2" scheme="http://yoursite.com/tags/world-war-2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Everyday RC——Ecoefficiency</title>
+    <link href="http://yoursite.com/2019/03/20/gmat/"/>
+    <id>http://yoursite.com/2019/03/20/gmat/</id>
+    <published>2019-03-20T00:55:23.000Z</published>
+    <updated>2019-03-20T14:00:23.261Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Everyday-RC——Ecoefficiency"><a href="#Everyday-RC——Ecoefficiency" class="headerlink" title="#Everyday RC——Ecoefficiency"></a>#Everyday RC——Ecoefficiency</h1><blockquote><p>Ecoefficiency (measures to minimize environmental impact through the<br>reduction or elimination of waste from  production processes) has become<br>a goal for companies worldwide, with many realizing significant cost<br>savings from such innovations. Peter Senge and Goran Carstedt see this<br>development as laudable but suggest that simply adopting ecoefficiency<br>innovations could actually worsen environmental stresses in the future.<br>Such innovations reduce production waste but do not alter the number of<br>products manufactured nor the waste generated from their use and<br>discard; indeed, most companies invest in ecoefficiency improvements in<br>order to increase profits and growth. Moreover, there is no guarantee<br>that increased economic growth from ecoefficiency will come in similarly<br>ecoefficient ways, since in today’s global markets, greater profits may<br>be turned into investment capital that could easily be reinvested in<br>old-style eco-inefficient industries. Even a vastly more ecoefficient<br>industrial system could, were it to grow much larger, generate more<br>total waste and destroy more habitat and species than would a smaller,<br>less ecoefficient economy. Senge and Carstedt argue that to preserve the<br>global environment and sustain economic growth, businesses must develop<br>a new systemic approach that reduces total material use and total<br>accumulated waste. Focusing exclusively on ecoefficiency, which offers a<br>compelling business case according to established thinking, may<br>distract companies from pursuing radically different products and<br>business models.</p></blockquote><h2 id="Analyzation-of-the-whole-structure"><a href="#Analyzation-of-the-whole-structure" class="headerlink" title="Analyzation of the whole structure"></a>Analyzation of the whole structure</h2><h3 id="General"><a href="#General" class="headerlink" title="General"></a>General</h3><ol><li>Background introduction</li><li>TC VIEW(positive and <strong>negative</strong>)</li><li>3 <strong>negative</strong> consequences</li><li>conclusion(positive and <strong>negative</strong>)</li></ol><h3 id="Specific"><a href="#Specific" class="headerlink" title="Specific"></a>Specific</h3><blockquote><p><strong>Ecoefficiency</strong> (measures to minimize environmental impact through the<br>reduction or elimination of waste from  production processes) has become<br>a goal for <strong>companies</strong> worldwide, with many <strong>realizing significant cost<br>savings from such innovations.</strong> </p></blockquote><ul><li><p>main function : BS</p></li><li><p>PS: bankrupt in BS is important</p></li></ul><blockquote><p>Peter <strong>Senge</strong> and Goran <strong>Carstedt</strong> <em>see</em> this </p><p>development as <strong>laudable</strong> <strong>but</strong> suggest that simply adopting ecoefficiency<br>innovations could actually <strong>worsen</strong> environmental stresses in the future.</p></blockquote><ul><li><p>main function : main view(S&amp;&amp;C) of ecoefficiency</p></li><li><p>PS: </p><ul><li>Remember the family name </li><li>Include both positive and negative view</li><li>“But” indicates that “negative” aspect is more important</li></ul></li></ul><blockquote><p><strong>Such</strong> innovations reduce production waste <strong>but</strong> do not alter the number of<br>products manufactured nor the waste generated from their use and<br>discard; <strong>indeed</strong>, most companies invest in ecoefficiency improvements in<br>order to increase profits and growth.</p></blockquote><ul><li><p>main function : explain the view (negative)[1]</p></li><li><p>PS : </p><ul><li><p>“Such” shows its connection with the previous sentence</p></li><li><p>Before “but”  : positive, After “but” : negative</p></li><li><p>indeed : link with smooth transition </p></li></ul></li></ul><blockquote><p><strong>Moreover</strong>, there is <strong>no guarantee</strong><br>that increased economic growth from ecoefficiency will come in similarly<br>ecoefficient ways, <strong>since</strong> in today’s global markets, greater profits may<br>be turned into investment capital that could easily be reinvested in<br>old-style eco-inefficient industries.</p></blockquote><ul><li><p>main function : explain the view (negative)[2]</p></li><li><p>PS : Moreover :  link with smooth transition </p></li></ul><blockquote><p><strong>Even</strong> a vastly more ecoefficient<br>industrial system could, were it to grow much larger, generate <strong>more</strong><br>total waste and destroy more habitat and species <strong>than</strong> would a smaller,<br>less ecoefficient economy. </p></blockquote><ul><li><p>main function : explain the view (negative)[3]</p></li><li><p>PS : </p><ul><li><p>Even : link with smooth transition</p></li><li><p>“more, than” : notice comparison </p></li></ul></li></ul><blockquote><p><strong>S</strong>enge and <strong>C</strong>arstedt argue that to preserve the<br>global environment and sustain economic growth, businesses must develop<br>a <strong>new</strong> <strong>systemic</strong> approach that reduces total material use and total<br>accumulated waste. </p></blockquote><ul><li><p>main function : attitude again and the future</p></li><li><p>PS : notice “new”</p></li></ul><blockquote><p>Focusing <strong>exclusively</strong> on ecoefficiency, which offers a<br><strong>compelling</strong> business case according to established thinking, may<br><strong>distract</strong> companies from pursuing radically different products and<br>business models.</p></blockquote><ul><li><p>main function : the mixture view again </p></li><li><p>PS : “compelling”(P) and “distract”(G)—same as TC</p></li></ul><h2 id="Vocabularies"><a href="#Vocabularies" class="headerlink" title="Vocabularies"></a>Vocabularies</h2><ol><li><laudable>（<a href="https://www.vocabulary.com/dictionary/laudable）" target="_blank" rel="noopener">https://www.vocabulary.com/dictionary/laudable）</a></laudable></li><li><exclusively> （<a href="https://www.vocabulary.com/dictionary/exclusively）" target="_blank" rel="noopener">https://www.vocabulary.com/dictionary/exclusively）</a></exclusively></li></ol>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;Everyday-RC——Ecoefficiency&quot;&gt;&lt;a href=&quot;#Everyday-RC——Ecoefficiency&quot; class=&quot;headerlink&quot; title=&quot;#Everyday RC——Ecoefficiency&quot;&gt;&lt;/a&gt;#Everyd
+      
+    
+    </summary>
+    
+      <category term="gmat" scheme="http://yoursite.com/categories/gmat/"/>
+    
+    
+      <category term="gmat" scheme="http://yoursite.com/tags/gmat/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>some problems about setting a blog</title>
+    <link href="http://yoursite.com/2019/03/19/Diary/Encoutering%20some%20problems%20when%20setting%20a%20blog%20based%20on%20Hexo/"/>
+    <id>http://yoursite.com/2019/03/19/Diary/Encoutering some problems when setting a blog based on Hexo/</id>
+    <published>2019-03-19T12:12:43.000Z</published>
+    <updated>2019-03-20T14:07:13.854Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="some-problems-setting-a-blog-based-on-Hexo"><a href="#some-problems-setting-a-blog-based-on-Hexo" class="headerlink" title="some problems setting a blog based on Hexo"></a>some problems setting a blog based on Hexo</h1><h2 id="The-importance-of-where-to-gitbash-or-run-powershell"><a href="#The-importance-of-where-to-gitbash-or-run-powershell" class="headerlink" title="The importance of where to gitbash or run powershell"></a>The importance of where to gitbash or run powershell</h2><pre><code>e.g. updating the theme--- next , gitbash in the file of *next*</code></pre><h2 id="Carefully-read-the-errors-instead-of-being-furious"><a href="#Carefully-read-the-errors-instead-of-being-furious" class="headerlink" title="Carefully read the errors instead of being furious"></a>Carefully read the errors instead of being furious</h2><pre><code>1. since bug information will show the specific location of errors, which could provide a fantanstic opportunity to examine the programme.2.many mistakes are quite easily neglectede.g. ERROR Theme config load failed      ERROR Process failed: _config.yml      These above are all caused by imitating others&apos; methods completely.     (I even did not change the &quot;your URL&quot; to &quot;8972LEE&quot;)</code></pre><p>​         </p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;some-problems-setting-a-blog-based-on-Hexo&quot;&gt;&lt;a href=&quot;#some-problems-setting-a-blog-based-on-Hexo&quot; class=&quot;headerlink&quot; title=&quot;some pro
+      
+    
+    </summary>
+    
+      <category term="Diary" scheme="http://yoursite.com/categories/Diary/"/>
+    
+    
+      <category term="problems hexo" scheme="http://yoursite.com/tags/problems-hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>The first day using my blog</title>
+    <link href="http://yoursite.com/2019/03/18/Diary/The%20first%20day%20using%20my%20blog/"/>
+    <id>http://yoursite.com/2019/03/18/Diary/The first day using my blog/</id>
+    <published>2019-03-18T12:12:43.000Z</published>
+    <updated>2019-03-19T12:43:24.794Z</updated>
+    
+    <content type="html"><![CDATA[<p>The first day using my blog</p><p>Micro-diary </p><p>—terrible but wonderful at last</p><p>Although some people claim that it only takes almost 5 minites to set up a unique blog, for me, almost 2 hour to complete this simplified blog. English is really important when lots of techniques and methods in English needed to be understood. In the future,I need to study the markdown style and some knowedge about github. Important, be familiar with cmd, oders. Do not be stupid!!!  </p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;The first day using my blog&lt;/p&gt;
+&lt;p&gt;Micro-diary &lt;/p&gt;
+&lt;p&gt;—terrible but wonderful at last&lt;/p&gt;
+&lt;p&gt;Although some people claim that it only tak
+      
+    
+    </summary>
+    
+      <category term="Diary" scheme="http://yoursite.com/categories/Diary/"/>
+    
+    
+  </entry>
+  
+</feed>
