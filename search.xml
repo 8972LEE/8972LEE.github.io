@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[The first day of word 10000]]></title>
+    <url>%2F2019%2F03%2F23%2Fword-1%2F</url>
+    <content type="text"><![CDATA[Introduction about methods to memorize]]></content>
+      <categories>
+        <category>Academic</category>
+      </categories>
+      <tags>
+        <tag>gamt word</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[How to add music player to Hexo]]></title>
     <url>%2F2019%2F03%2F22%2FAdd-music-player%2F</url>
     <content type="text"><![CDATA[Use music websites like Netease Cloud Music Through the function of inspect elements to gain the external chain player copy the code to layout/macro/sidebar.swig &lt;dv id=&quot;music163player&quot;&gt; &lt;/iframe&gt; &lt;/div&gt; P.S. Choose one of the places you like Endhexo clean &amp;&amp; hexo g]]></content>
