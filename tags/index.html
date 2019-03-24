@@ -311,10 +311,10 @@
         
           <div class="tag-cloud">
             <div class="tag-cloud-title">
-                7 tags in total
+                8 tags in total
             </div>
             <div class="tag-cloud-tags">
-              <a href="/tags/book/" style="font-size: 12px; color: #ccc">book</a> <a href="/tags/gamt-word/" style="font-size: 30px; color: #111">gamt word</a> <a href="/tags/gmat/" style="font-size: 12px; color: #ccc">gmat</a> <a href="/tags/hexo/" style="font-size: 30px; color: #111">hexo</a> <a href="/tags/problems-hexo/" style="font-size: 12px; color: #ccc">problems hexo</a> <a href="/tags/world-war-2/" style="font-size: 12px; color: #ccc">world war 2</a> <a href="/tags/writing/" style="font-size: 12px; color: #ccc">writing</a>
+              <a href="/tags/Exam/" style="font-size: 12px; color: #ccc">Exam</a> <a href="/tags/book/" style="font-size: 12px; color: #ccc">book</a> <a href="/tags/gamt-word/" style="font-size: 30px; color: #111">gamt word</a> <a href="/tags/gmat/" style="font-size: 12px; color: #ccc">gmat</a> <a href="/tags/hexo/" style="font-size: 30px; color: #111">hexo</a> <a href="/tags/problems-hexo/" style="font-size: 12px; color: #ccc">problems hexo</a> <a href="/tags/world-war-2/" style="font-size: 12px; color: #ccc">world war 2</a> <a href="/tags/writing/" style="font-size: 12px; color: #ccc">writing</a>
             </div>
           </div>
         
@@ -335,6 +335,9 @@
 
           
 
+  
+    <div class="comments" id="comments">
+    </div>
   
 
 
@@ -387,7 +390,7 @@
               
               <div class="site-state-item site-state-categories">
                 <a href="/categories/index.html">
-                  <span class="site-state-item-count">7</span>
+                  <span class="site-state-item-count">6</span>
                   <span class="site-state-item-name">categories</span>
                 </a>
               </div>
@@ -398,7 +401,7 @@
               
               <div class="site-state-item site-state-tags">
                 <a href="/tags/index.html">
-                  <span class="site-state-item-count">7</span>
+                  <span class="site-state-item-count">8</span>
                   <span class="site-state-item-name">tags</span>
                 </a>
               </div>
@@ -656,6 +659,28 @@
 
 
 
+
+  <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+  <script src="//unpkg.com/valine/dist/Valine.min.js"></script>
+  
+  <script type="text/javascript">
+    var GUEST = ['nick','mail','link'];
+    var guest = 'nick,mail,link';
+    guest = guest.split(',').filter(item=>{
+      return GUEST.indexOf(item)>-1;
+    });
+    new Valine({
+        el: '#comments' ,
+        verify: false,
+        notify: false,
+        appId: 'Cg8V518AcXRo1jrc8hDjr3dq-gzGzoHsz',
+        appKey: 'K3pc7F0gJ5WogL1JJoRmtaLH',
+        placeholder: 'ヾﾉ≧∀≦)o ：）hhhhhhh',
+        avatar:'/uploads/avatar.png',
+        guest_info:guest,
+        pageSize:'10' || 10,
+    });
+  </script>
 
 
 

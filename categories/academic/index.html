@@ -84,7 +84,7 @@
 
 <meta property="og:type" content="website">
 <meta property="og:title" content="Vanora Lee&#39;s BLOG">
-<meta property="og:url" content="http://yoursite.com/categories/academic/index.html">
+<meta property="og:url" content="http://yoursite.com/categories/Academic/index.html">
 <meta property="og:site_name" content="Vanora Lee&#39;s BLOG">
 <meta property="og:locale" content="en">
 <meta name="twitter:card" content="summary">
@@ -118,13 +118,13 @@
 
 
 
-  <link rel="canonical" href="http://yoursite.com/categories/academic/">
+  <link rel="canonical" href="http://yoursite.com/categories/Academic/">
 
 
 
 
 
-  <title>Category: academic | Vanora Lee's BLOG</title>
+  <title>Category: Academic | Vanora Lee's BLOG</title>
   
 
 
@@ -296,9 +296,61 @@
 
     <div id="posts" class="posts-collapse">
       <div class="collection-title">
-        <h1>academic<small>Category</small>
+        <h1>Academic<small>Category</small>
         </h1>
       </div>
+
+      
+        
+
+  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
+    <header class="post-header">
+
+      <h2 class="post-title">
+        
+            <a class="post-title-link" href="/2019/03/24/woed-2/" itemprop="url">
+              
+                <span itemprop="name">The second day of word 10000</span>
+              
+            </a>
+        
+      </h2>
+
+      <div class="post-meta">
+        <time class="post-time" itemprop="dateCreated" datetime="2019-03-24T10:08:11+08:00" content="2019-03-24">
+          03-24
+        </time>
+      </div>
+
+    </header>
+  </article>
+
+
+      
+        
+
+  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
+    <header class="post-header">
+
+      <h2 class="post-title">
+        
+            <a class="post-title-link" href="/2019/03/23/word-1/" itemprop="url">
+              
+                <span itemprop="name">The first day of word 10000</span>
+              
+            </a>
+        
+      </h2>
+
+      <div class="post-meta">
+        <time class="post-time" itemprop="dateCreated" datetime="2019-03-23T17:42:50+08:00" content="2019-03-23">
+          03-23
+        </time>
+      </div>
+
+    </header>
+  </article>
+
 
       
         
@@ -392,7 +444,7 @@
               
               <div class="site-state-item site-state-categories">
                 <a href="/categories/index.html">
-                  <span class="site-state-item-count">7</span>
+                  <span class="site-state-item-count">6</span>
                   <span class="site-state-item-name">categories</span>
                 </a>
               </div>
@@ -403,7 +455,7 @@
               
               <div class="site-state-item site-state-tags">
                 <a href="/tags/index.html">
-                  <span class="site-state-item-count">7</span>
+                  <span class="site-state-item-count">8</span>
                   <span class="site-state-item-name">tags</span>
                 </a>
               </div>
@@ -657,6 +709,28 @@
 
 
 
+
+  <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+  <script src="//unpkg.com/valine/dist/Valine.min.js"></script>
+  
+  <script type="text/javascript">
+    var GUEST = ['nick','mail','link'];
+    var guest = 'nick,mail,link';
+    guest = guest.split(',').filter(item=>{
+      return GUEST.indexOf(item)>-1;
+    });
+    new Valine({
+        el: '#comments' ,
+        verify: false,
+        notify: false,
+        appId: 'Cg8V518AcXRo1jrc8hDjr3dq-gzGzoHsz',
+        appKey: 'K3pc7F0gJ5WogL1JJoRmtaLH',
+        placeholder: 'ヾﾉ≧∀≦)o ：）hhhhhhh',
+        avatar:'/uploads/avatar.png',
+        guest_info:guest,
+        pageSize:'10' || 10,
+    });
+  </script>
 
 
 
@@ -958,49 +1032,6 @@
 
     // handle and trigger popup window;
     $('.popup-trigger').click(function(e) {
-      e.stopPropagation();
-      if (isfetched === false) {
-        searchFunc(path, 'local-search-input', 'local-search-result');
-      } else {
-        proceedsearch();
-      };
-    });
-
-    $('.popup-btn-close').click(onPopupClose);
-    $('.popup').click(function(e){
-      e.stopPropagation();
-    });
-    $(document).on('keyup', function (event) {
-      var shouldDismissSearchPopup = event.which === 27 &&
-        $('.search-popup').is(':visible');
-      if (shouldDismissSearchPopup) {
-        onPopupClose();
-      }
-    });
-  </script>
-
-
-
-
-
-  
-
-  
-
-  
-
-  
-  
-
-  
-
-  
-
-  
-
-</body>
-</html>
-(function(e) {
       e.stopPropagation();
       if (isfetched === false) {
         searchFunc(path, 'local-search-input', 'local-search-result');
