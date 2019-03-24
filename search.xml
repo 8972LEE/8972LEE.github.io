@@ -57,8 +57,18 @@
         <category>Academic</category>
       </categories>
       <tags>
-        <tag>writing</tag>
         <tag>Exam</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[404分类页或标签页解决方法]]></title>
+    <url>%2F2019%2F03%2F21%2F404%20fe%E5%88%86%E7%B1%BBor%E6%A0%87%E7%AD%BE%E9%A1%B5%2F</url>
+    <content type="text"><![CDATA[Step 1在hexo根目录的source文件夹下新建tags文件夹，在其中建index.md文件. 1$ hexo new page "tags" Step 2编辑index.md文件，内容如下： 12345---title: &quot;tags&quot;type: tagslayout: &quot;tags&quot;--- P.S. layout 选项，后面的参数对应的是你 主题文件夹下 layout文件夹下第一级的布局文件。 Step 3编辑主题配置文件 1234567menu: home: / || home about: /about/ || user tags: /tags/ || tags categories: /categories/ || th archives: /archives/ || archive schedule: /schedule/ || calendar Step4编辑站点配置文件Directory选项。 检查一下名称是否对应 12# Directorytag_dir: tags Conclusion其他页面（categories， about）的设置同理可得 P.S. 主题文件里有没有标签页或者分类页的布局文件，命名和存放的位置可能不同，]]></content>
+      <categories>
+        <category>hexo</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
       </tags>
   </entry>
   <entry>
