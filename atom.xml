@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Vanora Lee&#39;s BLOG</title>
   
-  
+  <subtitle>Extraterrestrial</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://8972lee.github.io/"/>
   <updated>2019-03-24T03:03:29.307Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://8972lee.github.io/</id>
   
   <author>
     <name>8972LEE</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>The second day of word 10000</title>
-    <link href="http://yoursite.com/2019/03/24/woed-2/"/>
-    <id>http://yoursite.com/2019/03/24/woed-2/</id>
+    <link href="https://8972lee.github.io/woed-2.html"/>
+    <id>https://8972lee.github.io/woed-2.html</id>
     <published>2019-03-24T02:08:11.000Z</published>
     <updated>2019-03-24T03:03:29.307Z</updated>
     
@@ -35,17 +35,17 @@
     
     </summary>
     
-      <category term="Academic" scheme="http://yoursite.com/categories/Academic/"/>
+      <category term="Academic" scheme="https://8972lee.github.io/categories/Academic/"/>
     
     
-      <category term="gamt word" scheme="http://yoursite.com/tags/gamt-word/"/>
+      <category term="gamt word" scheme="https://8972lee.github.io/tags/gamt-word/"/>
     
   </entry>
   
   <entry>
     <title>The first day of word 10000</title>
-    <link href="http://yoursite.com/2019/03/23/word-1/"/>
-    <id>http://yoursite.com/2019/03/23/word-1/</id>
+    <link href="https://8972lee.github.io/word-1.html"/>
+    <id>https://8972lee.github.io/word-1.html</id>
     <published>2019-03-23T09:42:50.000Z</published>
     <updated>2019-03-24T03:01:24.659Z</updated>
     
@@ -61,17 +61,17 @@
     
     </summary>
     
-      <category term="Academic" scheme="http://yoursite.com/categories/Academic/"/>
+      <category term="Academic" scheme="https://8972lee.github.io/categories/Academic/"/>
     
     
-      <category term="gamt word" scheme="http://yoursite.com/tags/gamt-word/"/>
+      <category term="gamt word" scheme="https://8972lee.github.io/tags/gamt-word/"/>
     
   </entry>
   
   <entry>
     <title> How to add music player to Hexo</title>
-    <link href="http://yoursite.com/2019/03/22/Add-music-player/"/>
-    <id>http://yoursite.com/2019/03/22/Add-music-player/</id>
+    <link href="https://8972lee.github.io/Add-music-player.html"/>
+    <id>https://8972lee.github.io/Add-music-player.html</id>
     <published>2019-03-22T06:26:37.000Z</published>
     <updated>2019-03-22T11:55:44.313Z</updated>
     
@@ -87,17 +87,17 @@
     
     </summary>
     
-      <category term="hexo" scheme="http://yoursite.com/categories/hexo/"/>
+      <category term="hexo" scheme="https://8972lee.github.io/categories/hexo/"/>
     
     
-      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+      <category term="hexo" scheme="https://8972lee.github.io/tags/hexo/"/>
     
   </entry>
   
   <entry>
     <title>How to add local pictures to hexo</title>
-    <link href="http://yoursite.com/2019/03/21/jpg/"/>
-    <id>http://yoursite.com/2019/03/21/jpg/</id>
+    <link href="https://8972lee.github.io/jpg.html"/>
+    <id>https://8972lee.github.io/jpg.html</id>
     <published>2019-03-21T14:19:22.000Z</published>
     <updated>2019-03-22T06:46:58.461Z</updated>
     
@@ -113,17 +113,17 @@
     
     </summary>
     
-      <category term="hexo" scheme="http://yoursite.com/categories/hexo/"/>
+      <category term="hexo" scheme="https://8972lee.github.io/categories/hexo/"/>
     
     
-      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+      <category term="hexo" scheme="https://8972lee.github.io/tags/hexo/"/>
     
   </entry>
   
   <entry>
     <title>AOP</title>
-    <link href="http://yoursite.com/2019/03/21/AOP/"/>
-    <id>http://yoursite.com/2019/03/21/AOP/</id>
+    <link href="https://8972lee.github.io/AOP.html"/>
+    <id>https://8972lee.github.io/AOP.html</id>
     <published>2019-03-21T13:09:26.000Z</published>
     <updated>2019-03-21T14:18:44.116Z</updated>
     
@@ -143,35 +143,9 @@
   </entry>
   
   <entry>
-    <title> Exam Writing 1 about motivation</title>
-    <link href="http://yoursite.com/2019/03/21/Exam-Writing/"/>
-    <id>http://yoursite.com/2019/03/21/Exam-Writing/</id>
-    <published>2019-03-21T08:08:43.000Z</published>
-    <updated>2019-03-24T03:52:04.699Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          
-        
-      
-    
-    </summary>
-    
-      <category term="Academic" scheme="http://yoursite.com/categories/Academic/"/>
-    
-    
-      <category term="Exam" scheme="http://yoursite.com/tags/Exam/"/>
-    
-  </entry>
-  
-  <entry>
     <title> 404分类页或标签页解决方法</title>
-    <link href="http://yoursite.com/2019/03/21/404%20fe%E5%88%86%E7%B1%BBor%E6%A0%87%E7%AD%BE%E9%A1%B5/"/>
-    <id>http://yoursite.com/2019/03/21/404 fe分类or标签页/</id>
+    <link href="https://8972lee.github.io/404%20fe%E5%88%86%E7%B1%BBor%E6%A0%87%E7%AD%BE%E9%A1%B5.html"/>
+    <id>https://8972lee.github.io/404 fe分类or标签页.html</id>
     <published>2019-03-21T08:08:43.000Z</published>
     <updated>2019-03-24T04:01:00.315Z</updated>
     
@@ -187,17 +161,43 @@
     
     </summary>
     
-      <category term="hexo" scheme="http://yoursite.com/categories/hexo/"/>
+      <category term="hexo" scheme="https://8972lee.github.io/categories/hexo/"/>
     
     
-      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+      <category term="hexo" scheme="https://8972lee.github.io/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title> Exam Writing 1 about motivation</title>
+    <link href="https://8972lee.github.io/Exam-Writing.html"/>
+    <id>https://8972lee.github.io/Exam-Writing.html</id>
+    <published>2019-03-21T08:08:43.000Z</published>
+    <updated>2019-03-24T03:52:04.699Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          
+        
+      
+    
+    </summary>
+    
+      <category term="Academic" scheme="https://8972lee.github.io/categories/Academic/"/>
+    
+    
+      <category term="Exam" scheme="https://8972lee.github.io/tags/Exam/"/>
     
   </entry>
   
   <entry>
     <title>Silence of the lambs</title>
-    <link href="http://yoursite.com/2019/03/21/lambs/"/>
-    <id>http://yoursite.com/2019/03/21/lambs/</id>
+    <link href="https://8972lee.github.io/lambs.html"/>
+    <id>https://8972lee.github.io/lambs.html</id>
     <published>2019-03-21T05:36:54.000Z</published>
     <updated>2019-03-21T14:12:26.222Z</updated>
     
@@ -213,17 +213,17 @@
     
     </summary>
     
-      <category term="book" scheme="http://yoursite.com/categories/book/"/>
+      <category term="book" scheme="https://8972lee.github.io/categories/book/"/>
     
     
-      <category term="book" scheme="http://yoursite.com/tags/book/"/>
+      <category term="book" scheme="https://8972lee.github.io/tags/book/"/>
     
   </entry>
   
   <entry>
     <title>The book thief movie review</title>
-    <link href="http://yoursite.com/2019/03/20/thief/"/>
-    <id>http://yoursite.com/2019/03/20/thief/</id>
+    <link href="https://8972lee.github.io/thief.html"/>
+    <id>https://8972lee.github.io/thief.html</id>
     <published>2019-03-20T14:12:58.000Z</published>
     <updated>2019-03-22T04:55:28.030Z</updated>
     
@@ -239,17 +239,17 @@
     
     </summary>
     
-      <category term="movie" scheme="http://yoursite.com/categories/movie/"/>
+      <category term="movie" scheme="https://8972lee.github.io/categories/movie/"/>
     
     
-      <category term="world war 2" scheme="http://yoursite.com/tags/world-war-2/"/>
+      <category term="world war 2" scheme="https://8972lee.github.io/tags/world-war-2/"/>
     
   </entry>
   
   <entry>
     <title>Everyday RC——Ecoefficiency</title>
-    <link href="http://yoursite.com/2019/03/20/gmat/"/>
-    <id>http://yoursite.com/2019/03/20/gmat/</id>
+    <link href="https://8972lee.github.io/gmat.html"/>
+    <id>https://8972lee.github.io/gmat.html</id>
     <published>2019-03-20T00:55:23.000Z</published>
     <updated>2019-03-20T14:00:23.261Z</updated>
     
@@ -265,17 +265,17 @@
     
     </summary>
     
-      <category term="gmat" scheme="http://yoursite.com/categories/gmat/"/>
+      <category term="gmat" scheme="https://8972lee.github.io/categories/gmat/"/>
     
     
-      <category term="gmat" scheme="http://yoursite.com/tags/gmat/"/>
+      <category term="gmat" scheme="https://8972lee.github.io/tags/gmat/"/>
     
   </entry>
   
   <entry>
     <title>some problems about setting a blog</title>
-    <link href="http://yoursite.com/2019/03/19/Diary/Encoutering%20some%20problems%20when%20setting%20a%20blog%20based%20on%20Hexo/"/>
-    <id>http://yoursite.com/2019/03/19/Diary/Encoutering some problems when setting a blog based on Hexo/</id>
+    <link href="https://8972lee.github.io/Diary/Encoutering%20some%20problems%20when%20setting%20a%20blog%20based%20on%20Hexo.html"/>
+    <id>https://8972lee.github.io/Diary/Encoutering some problems when setting a blog based on Hexo.html</id>
     <published>2019-03-19T12:12:43.000Z</published>
     <updated>2019-03-20T14:07:13.854Z</updated>
     
@@ -291,17 +291,17 @@
     
     </summary>
     
-      <category term="Diary" scheme="http://yoursite.com/categories/Diary/"/>
+      <category term="Diary" scheme="https://8972lee.github.io/categories/Diary/"/>
     
     
-      <category term="problems hexo" scheme="http://yoursite.com/tags/problems-hexo/"/>
+      <category term="problems hexo" scheme="https://8972lee.github.io/tags/problems-hexo/"/>
     
   </entry>
   
   <entry>
     <title>The first day using my blog</title>
-    <link href="http://yoursite.com/2019/03/18/Diary/The%20first%20day%20using%20my%20blog/"/>
-    <id>http://yoursite.com/2019/03/18/Diary/The first day using my blog/</id>
+    <link href="https://8972lee.github.io/Diary/The%20first%20day%20using%20my%20blog.html"/>
+    <id>https://8972lee.github.io/Diary/The first day using my blog.html</id>
     <published>2019-03-18T12:12:43.000Z</published>
     <updated>2019-03-19T12:43:24.794Z</updated>
     
@@ -317,7 +317,7 @@
     
     </summary>
     
-      <category term="Diary" scheme="http://yoursite.com/categories/Diary/"/>
+      <category term="Diary" scheme="https://8972lee.github.io/categories/Diary/"/>
     
     
   </entry>
