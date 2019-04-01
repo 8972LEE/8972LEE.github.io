@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://8972lee.github.io/"/>
-  <updated>2019-03-30T16:46:37.042Z</updated>
+  <updated>2019-04-01T11:32:19.771Z</updated>
   <id>https://8972lee.github.io/</id>
   
   <author>
@@ -17,11 +17,85 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title></title>
+    <link href="https://8972lee.github.io/difficult%20sentences.html"/>
+    <id>https://8972lee.github.io/difficult sentences.html</id>
+    <published>2019-04-01T11:32:19.751Z</published>
+    <updated>2019-04-01T11:32:19.771Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>gogo-1</title>
+    <link href="https://8972lee.github.io/gogo-1.html"/>
+    <id>https://8972lee.github.io/gogo-1.html</id>
+    <published>2019-04-01T11:25:09.000Z</published>
+    <updated>2019-04-01T11:27:03.011Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          
+        
+      
+    
+    </summary>
+    
+      <category term="forever" scheme="https://8972lee.github.io/categories/forever/"/>
+    
+    
+      <category term="Leslie" scheme="https://8972lee.github.io/tags/Leslie/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>How to use pandas to analyze data|| 如何运用pandas 分析数据 ？</title>
+    <link href="https://8972lee.github.io/dc-1.html"/>
+    <id>https://8972lee.github.io/dc-1.html</id>
+    <published>2019-03-31T01:56:37.000Z</published>
+    <updated>2019-04-01T11:29:22.598Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          
+        
+      
+    
+    </summary>
+    
+      <category term="python" scheme="https://8972lee.github.io/categories/python/"/>
+    
+    
+      <category term="datacamp python" scheme="https://8972lee.github.io/tags/datacamp-python/"/>
+    
+  </entry>
+  
+  <entry>
     <title>经济学人||外媒谈“二人转”的危机</title>
     <link href="https://8972lee.github.io/eco-2.html"/>
     <id>https://8972lee.github.io/eco-2.html</id>
     <published>2019-03-30T14:25:18.000Z</published>
-    <updated>2019-03-30T16:46:37.042Z</updated>
+    <updated>2019-03-30T16:59:26.783Z</updated>
     
     <summary type="html">
     
@@ -121,6 +195,32 @@
   </entry>
   
   <entry>
+    <title>Some vocabularies and beautiful sentences from the book thief</title>
+    <link href="https://8972lee.github.io/the-book-thief-1.html"/>
+    <id>https://8972lee.github.io/the-book-thief-1.html</id>
+    <published>2019-03-27T10:32:02.000Z</published>
+    <updated>2019-03-31T01:18:42.828Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          
+        
+      
+    
+    </summary>
+    
+      <category term="book" scheme="https://8972lee.github.io/categories/book/"/>
+    
+    
+      <category term="the book thief" scheme="https://8972lee.github.io/tags/the-book-thief/"/>
+    
+  </entry>
+  
+  <entry>
     <title>The Chian -US trade dispute ---- An ocean apart</title>
     <link href="https://8972lee.github.io/eco-1.html"/>
     <id>https://8972lee.github.io/eco-1.html</id>
@@ -200,8 +300,8 @@
   
   <entry>
     <title>The second day of word 10000</title>
-    <link href="https://8972lee.github.io/woed-2.html"/>
-    <id>https://8972lee.github.io/woed-2.html</id>
+    <link href="https://8972lee.github.io/word-2.html"/>
+    <id>https://8972lee.github.io/word-2.html</id>
     <published>2019-03-24T02:08:11.000Z</published>
     <updated>2019-03-25T06:48:16.265Z</updated>
     
@@ -251,37 +351,11 @@
   </entry>
   
   <entry>
-    <title> How to add music player to Hexo</title>
+    <title> issue_3 : How to add music player to Hexo</title>
     <link href="https://8972lee.github.io/Add-music-player.html"/>
     <id>https://8972lee.github.io/Add-music-player.html</id>
     <published>2019-03-22T06:26:37.000Z</published>
-    <updated>2019-03-27T03:46:54.240Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          
-        
-      
-    
-    </summary>
-    
-      <category term="hexo" scheme="https://8972lee.github.io/categories/hexo/"/>
-    
-    
-      <category term="hexo" scheme="https://8972lee.github.io/tags/hexo/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>How to add local pictures to hexo</title>
-    <link href="https://8972lee.github.io/jpg.html"/>
-    <id>https://8972lee.github.io/jpg.html</id>
-    <published>2019-03-21T14:19:22.000Z</published>
-    <updated>2019-03-22T06:46:58.461Z</updated>
+    <updated>2019-03-31T01:21:27.162Z</updated>
     
     <summary type="html">
     
@@ -347,32 +421,6 @@
     
     
       <category term="Exam" scheme="https://8972lee.github.io/tags/Exam/"/>
-    
-  </entry>
-  
-  <entry>
-    <title> 404分类页或标签页解决方法</title>
-    <link href="https://8972lee.github.io/404%20fe%E5%88%86%E7%B1%BBor%E6%A0%87%E7%AD%BE%E9%A1%B5.html"/>
-    <id>https://8972lee.github.io/404 fe分类or标签页.html</id>
-    <published>2019-03-21T08:08:43.000Z</published>
-    <updated>2019-03-27T03:47:05.082Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          
-        
-      
-    
-    </summary>
-    
-      <category term="hexo" scheme="https://8972lee.github.io/categories/hexo/"/>
-    
-    
-      <category term="hexo" scheme="https://8972lee.github.io/tags/hexo/"/>
     
   </entry>
   
@@ -455,11 +503,11 @@
   </entry>
   
   <entry>
-    <title>some problems about setting a blog</title>
+    <title>issue 5 :some problems about setting a blog</title>
     <link href="https://8972lee.github.io/Diary/Encoutering%20some%20problems%20when%20setting%20a%20blog%20based%20on%20Hexo.html"/>
     <id>https://8972lee.github.io/Diary/Encoutering some problems when setting a blog based on Hexo.html</id>
     <published>2019-03-19T12:12:43.000Z</published>
-    <updated>2019-03-20T14:07:13.854Z</updated>
+    <updated>2019-03-31T01:22:25.283Z</updated>
     
     <summary type="html">
     
@@ -477,30 +525,6 @@
     
     
       <category term="problems hexo" scheme="https://8972lee.github.io/tags/problems-hexo/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>The first day using my blog</title>
-    <link href="https://8972lee.github.io/Diary/The%20first%20day%20using%20my%20blog.html"/>
-    <id>https://8972lee.github.io/Diary/The first day using my blog.html</id>
-    <published>2019-03-18T12:12:43.000Z</published>
-    <updated>2019-03-19T12:43:24.794Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          
-        
-      
-    
-    </summary>
-    
-      <category term="Diary" scheme="https://8972lee.github.io/categories/Diary/"/>
-    
     
   </entry>
   
