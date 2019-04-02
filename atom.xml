@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://8972lee.github.io/"/>
-  <updated>2019-04-01T12:30:07.109Z</updated>
+  <updated>2019-04-02T01:15:22.685Z</updated>
   <id>https://8972lee.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>gogo-1</title>
+    <title>Leslie Cheung forever</title>
     <link href="https://8972lee.github.io/gogo-1.html"/>
     <id>https://8972lee.github.io/gogo-1.html</id>
     <published>2019-04-01T11:25:09.000Z</published>
-    <updated>2019-04-01T12:30:07.109Z</updated>
+    <updated>2019-04-02T01:15:22.685Z</updated>
     
     <summary type="html">
     
@@ -407,6 +407,32 @@
   </entry>
   
   <entry>
+    <title>issue 4 How to add local pictures to hexo</title>
+    <link href="https://8972lee.github.io/jpg.html"/>
+    <id>https://8972lee.github.io/jpg.html</id>
+    <published>2019-03-21T14:19:22.000Z</published>
+    <updated>2019-04-02T01:16:22.804Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          
+        
+      
+    
+    </summary>
+    
+      <category term="hexo" scheme="https://8972lee.github.io/categories/hexo/"/>
+    
+    
+      <category term="hexo" scheme="https://8972lee.github.io/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
     <title>My first academic oral presentation</title>
     <link href="https://8972lee.github.io/AOP.html"/>
     <id>https://8972lee.github.io/AOP.html</id>
@@ -507,32 +533,6 @@
     
     
       <category term="book" scheme="https://8972lee.github.io/tags/book/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>The book thief movie review</title>
-    <link href="https://8972lee.github.io/thief.html"/>
-    <id>https://8972lee.github.io/thief.html</id>
-    <published>2019-03-20T14:12:58.000Z</published>
-    <updated>2019-03-22T04:55:28.030Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          
-        
-      
-    
-    </summary>
-    
-      <category term="movie" scheme="https://8972lee.github.io/categories/movie/"/>
-    
-    
-      <category term="world war 2" scheme="https://8972lee.github.io/tags/world-war-2/"/>
     
   </entry>
   

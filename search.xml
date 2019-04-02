@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[gogo-1]]></title>
+    <title><![CDATA[Leslie Cheung forever]]></title>
     <url>%2Fgogo-1.html</url>
     <content type="text"><![CDATA[]]></content>
       <categories>
@@ -158,6 +158,17 @@
     <title><![CDATA[issue_3 How to add music player to Hexo]]></title>
     <url>%2FAdd-music-player.html</url>
     <content type="text"><![CDATA[Use music websites like Netease Cloud Music Through the function of inspect elements to gain the external chain player copy the code to layout/macro/sidebar.swig &lt;dv id=&quot;music163player&quot;&gt; &lt;/iframe&gt; &lt;/div&gt; P.S. Choose one of the places you like Endhexo clean &amp;&amp; hexo g]]></content>
+      <categories>
+        <category>hexo</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[issue 4 How to add local pictures to hexo]]></title>
+    <url>%2Fjpg.html</url>
+    <content type="text"><![CDATA[How to add local pictures to hexoMarkdown ![]() can demonstrate Online photographs remember to use relative path ![](/example.jpg) NOT ![](C:/users/.../) This photo will not appear in the passage. ProblemsDo not suit local photographs. e.g. Solutions Archive pages and home pages cannot reference images using the usual syntax found in content and articles Use hexo-asset-image plug-in to add local paragraphs Check the function of post-asset-folder is true in config.yml In the directory of hexo, run npm install https://github.com/CodeFalling/hexo-asset-image --save replace the original Markdown Grammar]]></content>
       <categories>
         <category>hexo</category>
       </categories>
