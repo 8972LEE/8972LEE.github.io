@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://8972lee.github.io/"/>
-  <updated>2019-04-03T12:09:19.009Z</updated>
+  <updated>2019-04-05T13:57:52.868Z</updated>
   <id>https://8972lee.github.io/</id>
   
   <author>
@@ -17,11 +17,89 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Learn Vocabulary from CR</title>
+    <link href="https://8972lee.github.io/gmat-2.html"/>
+    <id>https://8972lee.github.io/gmat-2.html</id>
+    <published>2019-04-05T12:31:33.000Z</published>
+    <updated>2019-04-05T13:57:52.868Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          
+        
+      
+    
+    </summary>
+    
+      <category term="gmat" scheme="https://8972lee.github.io/categories/gmat/"/>
+    
+    
+      <category term="gmat" scheme="https://8972lee.github.io/tags/gmat/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>精读经济学人|| 外媒谈“毛泽东”</title>
+    <link href="https://8972lee.github.io/eco-4.html"/>
+    <id>https://8972lee.github.io/eco-4.html</id>
+    <published>2019-04-05T06:47:55.000Z</published>
+    <updated>2019-04-05T15:04:08.357Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          
+        
+      
+    
+    </summary>
+    
+      <category term="economist" scheme="https://8972lee.github.io/categories/economist/"/>
+    
+    
+      <category term="economist" scheme="https://8972lee.github.io/tags/economist/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>The Economist|| 封面文章 欧洲与科技巨头的较量</title>
+    <link href="https://8972lee.github.io/eco-3.html"/>
+    <id>https://8972lee.github.io/eco-3.html</id>
+    <published>2019-04-03T10:16:23.000Z</published>
+    <updated>2019-04-03T12:09:19.009Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          
+        
+      
+    
+    </summary>
+    
+      <category term="economist" scheme="https://8972lee.github.io/categories/economist/"/>
+    
+    
+      <category term="economist" scheme="https://8972lee.github.io/tags/economist/"/>
+    
+  </entry>
+  
+  <entry>
     <title>The Economist|| 封面文章 欧洲与科技巨头的较量</title>
     <link href="https://8972lee.github.io/eco-2-1.html"/>
     <id>https://8972lee.github.io/eco-2-1.html</id>
     <published>2019-04-03T10:16:23.000Z</published>
-    <updated>2019-04-03T12:09:19.009Z</updated>
+    <updated>2019-04-05T08:39:46.094Z</updated>
     
     <summary type="html">
     
@@ -91,7 +169,7 @@
     <link href="https://8972lee.github.io/gmat-1.html"/>
     <id>https://8972lee.github.io/gmat-1.html</id>
     <published>2019-04-02T11:05:57.000Z</published>
-    <updated>2019-04-02T12:47:45.746Z</updated>
+    <updated>2019-04-05T12:49:42.399Z</updated>
     
     <summary type="html">
     
@@ -447,84 +525,6 @@
     
     
       <category term="gamt word" scheme="https://8972lee.github.io/tags/gamt-word/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>The first day of word 10000</title>
-    <link href="https://8972lee.github.io/word-1.html"/>
-    <id>https://8972lee.github.io/word-1.html</id>
-    <published>2019-03-23T09:42:50.000Z</published>
-    <updated>2019-03-24T05:53:34.600Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          
-        
-      
-    
-    </summary>
-    
-      <category term="gmat" scheme="https://8972lee.github.io/categories/gmat/"/>
-    
-    
-      <category term="gamt word" scheme="https://8972lee.github.io/tags/gamt-word/"/>
-    
-  </entry>
-  
-  <entry>
-    <title> issue_3 How to add music player to Hexo</title>
-    <link href="https://8972lee.github.io/Add-music-player.html"/>
-    <id>https://8972lee.github.io/Add-music-player.html</id>
-    <published>2019-03-22T06:26:37.000Z</published>
-    <updated>2019-04-01T11:41:13.474Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          
-        
-      
-    
-    </summary>
-    
-      <category term="hexo" scheme="https://8972lee.github.io/categories/hexo/"/>
-    
-    
-      <category term="hexo" scheme="https://8972lee.github.io/tags/hexo/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>issue 4 How to add local pictures to hexo</title>
-    <link href="https://8972lee.github.io/jpg.html"/>
-    <id>https://8972lee.github.io/jpg.html</id>
-    <published>2019-03-21T14:19:22.000Z</published>
-    <updated>2019-04-02T01:16:22.804Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          
-        
-      
-    
-    </summary>
-    
-      <category term="hexo" scheme="https://8972lee.github.io/categories/hexo/"/>
-    
-    
-      <category term="hexo" scheme="https://8972lee.github.io/tags/hexo/"/>
     
   </entry>
   
