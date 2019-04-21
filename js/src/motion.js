@@ -234,10 +234,12 @@ $(document).ready(function () {
         p: {opacity: 1, top: 0},
         o: {duration: 200}
       });
+	  
 
       if (CONFIG.motion.async) {
         integrator.next();
       }
+
 
       if (sequence.length > 0) {
         sequence[sequence.length - 1].o.complete = function () {
