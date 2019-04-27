@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://8972lee.github.io/"/>
-  <updated>2019-04-27T02:32:41.109Z</updated>
+  <updated>2019-04-27T03:23:55.772Z</updated>
   <id>https://8972lee.github.io/</id>
   
   <author>
@@ -21,14 +21,23 @@
     <link href="https://8972lee.github.io/gmat-9.html"/>
     <id>https://8972lee.github.io/gmat-9.html</id>
     <published>2019-04-27T02:11:36.000Z</published>
-    <updated>2019-04-27T02:32:41.109Z</updated>
+    <updated>2019-04-27T03:23:55.772Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src width=&quot;100%&quot;&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;https://quotespics.net/wp-content/uploads/2016/06/341223.jpg&quot; width=&quot;100%&quot;&gt;&lt;/p&gt;
+&lt;p&gt;承袭上篇&lt;strong&gt;沉睡古寺&lt;/strong&gt;而来&lt;/p&gt;
     
     </summary>
     
+      <category term="gmat" scheme="https://8972lee.github.io/categories/gmat/"/>
+    
+    
+      <category term="word" scheme="https://8972lee.github.io/tags/word/"/>
+    
+      <category term="related" scheme="https://8972lee.github.io/tags/related/"/>
+    
+      <category term="religious" scheme="https://8972lee.github.io/tags/religious/"/>
     
   </entry>
   
@@ -205,7 +214,7 @@
     <link href="https://8972lee.github.io/gmat-30.html"/>
     <id>https://8972lee.github.io/gmat-30.html</id>
     <published>2019-04-21T14:12:35.000Z</published>
-    <updated>2019-04-23T01:08:03.271Z</updated>
+    <updated>2019-04-27T02:49:56.431Z</updated>
     
     <summary type="html">
     
@@ -217,9 +226,9 @@
       <category term="gmat" scheme="https://8972lee.github.io/categories/gmat/"/>
     
     
-      <category term="cr" scheme="https://8972lee.github.io/tags/cr/"/>
+      <category term="gmat" scheme="https://8972lee.github.io/tags/gmat/"/>
     
-      <category term="gamt" scheme="https://8972lee.github.io/tags/gamt/"/>
+      <category term="cr" scheme="https://8972lee.github.io/tags/cr/"/>
     
       <category term="economy" scheme="https://8972lee.github.io/tags/economy/"/>
     
@@ -259,7 +268,7 @@
     <link href="https://8972lee.github.io/gmat-28.html"/>
     <id>https://8972lee.github.io/gmat-28.html</id>
     <published>2019-04-20T06:49:45.000Z</published>
-    <updated>2019-04-23T01:08:28.459Z</updated>
+    <updated>2019-04-27T02:49:50.033Z</updated>
     
     <summary type="html">
     
@@ -273,9 +282,9 @@
       <category term="gmat" scheme="https://8972lee.github.io/categories/gmat/"/>
     
     
-      <category term="cr" scheme="https://8972lee.github.io/tags/cr/"/>
+      <category term="gmat" scheme="https://8972lee.github.io/tags/gmat/"/>
     
-      <category term="gamt" scheme="https://8972lee.github.io/tags/gamt/"/>
+      <category term="cr" scheme="https://8972lee.github.io/tags/cr/"/>
     
       <category term="science" scheme="https://8972lee.github.io/tags/science/"/>
     
